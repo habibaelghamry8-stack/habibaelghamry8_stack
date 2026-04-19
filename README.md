@@ -1,5 +1,6 @@
 ​[Habiba elghamry]
-​Full Stack Developer Learner | Aspiring Cyber Security Specialist | 📞 [01505431109]
+​Full Stack Developer Learner | Aspiring Cyber Security Specialist 
+📍 [Egypt]| 📞 [01505431109]
 ✉️ [habibaelghamry8@gmail.com] | 🔗 [https://www.linkedin.com/in/habiba-elghamry-41aa65386?utm_source=share_via&utm_content=profile&utm_medium=member_android] | 💻 [https://github.com/habibaelghamry8-stack]
 ​PROFESSIONAL SUMMARY
 ​A dedicated Business Information Systems (BIS) student at the Higher Institute for Computers and Management Information Systems. Passionate about building secure, end-to-end web applications. Currently mastering Full Stack Development to establish a solid foundation for a future career in Cyber Security. Proven ability to combine business logic with technical implementation.
